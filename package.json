@@ -4,7 +4,9 @@
   "description": "index for xjtu",
   "main": "app.js",
   "scripts": {
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server",
+    "build": "webpack",
+    "start": "node ./app.js"
   },
   "repository": {
     "type": "git",
