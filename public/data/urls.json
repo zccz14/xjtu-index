@@ -1,0 +1,227 @@
+[
+    {
+        "name": "西安交通大学",
+        "url": "http://www.xjtu.edu.cn",
+        "type": "机构主页"
+    },
+    {
+        "name": "教务处",
+        "url": "http://dean.xjtu.edu.cn/",
+        "type":"信息服务 资讯"
+    },
+    {
+        "name": "图书馆",
+        "url": "http://www.lib.xjtu.edu.cn/",
+        "type": "信息服务"
+    },
+    {
+        "name": "网络中心",
+        "url": "http://nic.xjtu.edu.cn/",
+        "type":"信息服务"
+    },
+    {
+        "name": "仲英书院",
+        "url": "http://cy.xjtu.edu.cn/",
+        "type": "机构主页"
+    },
+    {
+        "name": "文治书院",
+        "url": "http://wen.xjtu.edu.cn",
+        "type": "机构主页"
+    },
+    {
+        "name": "南洋书院",
+        "url": "http://nanyang.xjtu.edu.cn/",
+        "type": "机构主页"
+    },
+    {
+        "name": "彭康书院",
+        "url": "http://pksy.xjtu.edu.cn/",
+        "type": "机构主页"
+    },
+    {
+        "name": "宗濂书院",
+        "url": "http://zlsy.xjtu.edu.cn/",
+        "type": "机构主页"
+    },
+    {
+        "name": "启德书院",
+        "url": "http://qdsy.xjtu.edu.cn/",
+        "type": "机构主页"
+    },
+    {
+        "name": "励志书院",
+        "url": "http://lizhi.xjtu.edu.cn/",
+        "type": "机构主页"
+    },
+    {
+        "name": "崇实书院",
+        "url": "http://cssy.xjtu.edu.cn/",
+        "type": "机构主页"
+    },
+    {
+        "name": "校历",
+        "url": "http://xiaoli.xjtu.edu.cn/front/1.html",
+        "type": "信息服务"
+    },
+    {
+        "name": "学生邮箱",
+        "url": "http://stu.xjtu.edu.cn/",
+        "type": "信息服务"
+    },
+    {
+        "name": "学生处",
+        "url": "http://xsc.xjtu.edu.cn/",
+        "type": "信息服务 资讯"
+    },
+    {
+        "name": "中文维基百科",
+        "url": "http://zh.wikipedia.org/",
+        "type": "资料"
+    },
+    {
+        "name": "谷歌学术搜索",
+        "url": "https://scholar.google.com/schhp?hl=zh-CN",
+        "type": "资料"
+    },
+    {
+        "name": "新浪微博",
+        "url": "http://t.sina.com.cn/",
+        "type": "社交"
+    },
+    {
+        "name": "知乎",
+        "url": "https://www.zhihu.com/",
+        "type": "社交"
+    },
+    {
+        "name": "贴吧",
+        "url": "http://tieba.baidu.com/f?kw=%CA%C0%BD%E7%D6%AE%B9%E2",
+        "type": "社交"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com/",
+        "type": "社交"
+    },
+    {
+        "name": "Stack Overflow",
+        "url": "http://stackoverflow.com/",
+        "type": "社交"
+    },
+    {
+        "name": "校园卡电子服务平台",
+        "url": "http://card.xjtu.edu.cn/",
+        "type": "信息服务"
+    },
+    {
+        "name": "图书馆-图书查询",
+        "url": "http://innopac.lib.xjtu.edu.cn/",
+        "type": "信息服务"
+    },
+    {
+        "name": "图书馆-个人借阅查询",
+        "url": "http://innopac.lib.xjtu.edu.cn/patroninfo*chx",
+        "type": "信息服务"
+    },
+    {
+        "name": "图书馆-文献数据库",
+        "url": "http://nav.lib.xjtu.edu.cn/database/index.do",
+        "type": "信息服务"
+    },
+    {
+        "name": "网络中心-流量查询",
+        "url": "http://auth.xjtu.edu.cn/",
+        "type": "信息服务"
+    },
+    {
+        "name": "网络中心-上网申请",
+        "url": "http://nethelp.xjtu.edu.cn/",
+        "type": "信息服务"
+    },
+    {
+        "name": "交大综合信息网",
+        "url": "http://info.xjtu.edu.cn/",
+        "type": "导航"
+    },
+    {
+        "name": "就业中心",
+        "url": "http://job.xjtu.edu.cn/",
+        "type": "信息服务"
+    },
+    {
+        "name": "学术资源平台",
+        "url": "http://meeting.xjtu.edu.cn/",
+        "type": "资讯"
+    },
+    {
+        "name": "研究生院",
+        "url": "http://gs.xjtu.edu.cn/",
+        "type": "机构主页"
+    },
+    {
+        "name": "就业中心-招聘会通知",
+        "url": "http://job.xjtu.edu.cn/meeting",
+        "type": "资讯"
+    },
+    {
+        "name": "百度翻译",
+        "url": "http://fanyi.baidu.com/",
+        "type": "资料"
+    },
+    {
+        "name": "中国知网",
+        "url": "http://www.cnki.net/",
+        "type": "资料"
+    },
+    {
+        "name": "信息门户",
+        "url": "http://my.xjtu.edu.cn/",
+        "type": "信息服务"
+    },
+    {
+        "name": "本科招生网",
+        "url": "http://zs.xjtu.edu.cn/",
+        "type": "资讯"
+    },
+    {
+        "name": "研究生招生网",
+        "url": "http://yz.xjtu.edu.cn/",
+        "type": "资讯"
+    },
+    {
+        "name": "兵马俑BBS",
+        "url": "http://bbs.xjtu.edu.cn/",
+        "type": "社交"
+    },
+    {
+        "name": "网管协会",
+        "url": "http://ana.xjtu.edu.cn/#/",
+        "type": "信息服务 资讯 机构主页"
+    },
+    {
+        "name": "南洋PT",
+        "url": "https://nanyangpt.com/",
+        "type": "信息服务 资料"
+    },
+    {
+        "name": "12306",
+        "url": "http://www.12306.cn/",
+        "type": "买买买"
+    },
+    {
+        "name": "淘宝",
+        "url": "https://www.taobao.com/",
+        "type": "买买买"
+    },
+    {
+        "name": "京东",
+        "url": "https://www.jd.com/",
+        "type": "买买买"
+    },
+    {
+        "name": "小木虫",
+        "url": "http://muchong.com/",
+        "type": "资料"
+    }
+]
