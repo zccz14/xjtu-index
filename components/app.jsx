@@ -7,7 +7,6 @@ import Divider from 'material-ui/Divider';
 import Subheader from 'material-ui/Subheader';
 import AutoComplete from 'material-ui/AutoComplete';
 import Link from './link';
-import A from './a';
 import {Tabs, Tab} from 'material-ui/Tabs';
 
 
