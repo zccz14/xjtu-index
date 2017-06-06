@@ -20,7 +20,7 @@
       "react",
       "stage-1"
     ],
-    "plugins": []
+    "plugins": ["add-module-exports"]
   },
   "bugs": {
     "url": "https://github.com/zccz14/xjtu-index/issues"
@@ -43,9 +43,10 @@
   "devDependencies": {
     "babel-core": "^6.9.1",
     "babel-loader": "^6.2.4",
+    "babel-plugin-add-module-exports": "^0.2.1",
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-react": "^6.5.0",
-    "babel-preset-stage-1": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
   }
